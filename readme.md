@@ -1,5 +1,5 @@
-trian
+trian model
 python train.py
 
-test
+eval model
 python test.py
