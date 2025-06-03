@@ -1,4 +1,4 @@
-trian model
+train model
 python train.py
 
 eval model
